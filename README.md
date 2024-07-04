@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">IT student at Mohammed VI International Academy of Civil Aviation.</p>
+<p align="left">Computer Science engineering student at Mohammed VI International Academy of Civil Aviation.</p>
 
 ###
 
